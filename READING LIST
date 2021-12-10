@@ -1,0 +1,188 @@
+START HERE
+How to Learn Cyber Over the Weekend: An Orientation in 48 Hours.
+https://medium.com/@stephen.semmelroth/how-to-learn-cyber-over-the-weekend-an-orientation-in-48-hours-ad40fea6d4ef
+Who should read: Everyone.
+Why: Learn WHY we do cyber, know our adversaries, and get into some actionable, tangible takeaways within the domain. 
+This article covers effectively three APT case studies, a recent vulnerabiltiy at the hardware layer, and both the ASD Essential 8 Maturity Model and MITRE ATT&CK Framework.
+If you are new to the field, the above topics are good to know. If you've been here for a while you should be more than conversant in an APT case study, know what is going on in the cyber world this week, and know the frameworks very well.
+
+Sandworm by Andy Greenberg
+https://www.amazon.com/Sandworm-Andy-Greenberg-audiobook/dp/B07RGRTZM6/
+Who should read: Everyone.
+Why: Know your adversary. Know the impacts of a state-sponsored threat. Be able to tell the story of what an APT is and/or does.
+Just read the whole darn thing. You'll be happy you did. Focus on Olympic Destroyer.
+
+Cybersecurity Career Master Plan by Dr. Gerald Auger, Jax Scott, Jon Helmus, and Kim Nguyen
+https://www.amazon.com/Cybersecurity-Career-Master-Plan-cybersecurity/dp/1801073562/
+Who should read: If you want to get into security, start here and keep coming back.
+Why: The authors tell you exactly how to get in. Hint: it's not all technical ;)
+Focus on: The whole dang book.
+
+Programming Interviews Exposed by Mongan, et. al
+https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/
+Who should read: anyone going to a technical interview focused on programming
+Why: Big O Notation, fizz buzz. Get busy.
+Focus: Your weakspots in software engineering and programming.
+
+60 Cybersecurity Interview Questions [2019 Update] by Daniel Miessler
+https://danielmiessler.com/study/infosec_interview_questions/
+Who should read: Anyone going for a technical security interview
+Why: Because these are common questions and you better know how to answer.
+
+What happens when you type in a URL to a browser and hit enter?
+http: self search. Go find lots of answers on your own.
+Why: THE MOST IMPORTANT TECHNICAL SECURITY QUESTION. If you think this is just a DNS question, you're 45 minutes too short for the answer.
+
+
+Selling Above and Below the Line by Skip Miller
+https://www.amazon.com/Selling-Above-Below-Line-Management/dp/0814434835/
+Who should read: If you're in cyber, you're in sales. Accept it now. READ IF YOU WANT TO BE A CISO
+Why: You're job is to drive change. You drive change by selling ideas. Period.
+Focus on ATL/BTL split and timelines.
+
+The Phenix Project by Gene Kim, Kevin Behr, and George Spafford
+https://www.amazon.com/The-Phoenix-Project-audiobook/dp/B00VATFAMI/
+Who should read: If you want to be a cyber leader, READ THIS. It will hurt.
+Why: This story is a story that repeats itself time and time again. So you better recognize it when you see it.
+Focus: How security plays into an org and understand who really controls power within the org
+
+The Smartest Person in the Room by Christian Espinosa
+https://www.amazon.com/Smartest-Person-Room-Solution-Cybersecurity/dp/1544516223/
+Who should read: If you're super technical, read this now. You're getting in your own way.
+Why: If you truly know yourself, work isn't work.
+Focus: Self assessment and learning to communicate change
+
+The Best Team Wins: Build Your Business Through Predictive Hiring by Adam Robinson
+https://www.amazon.com/Best-Team-Wins-Business-Predictive/dp/1626343829/
+Who should read: if you are transitioning out of the military, are going to be responsible for hiring people, or have some fear with interviewing or onboarding
+Why: Learn about interviewing and onboarding from the other side of the table. Get in their head, learn from them, figure out what makes them tick. Also, most likely after a year or two you will be the hiring manager and it’s good to get reps in now. This book also introduces the 30/60/90 day onboarding plan which is effectively the core of this program: defining the actions you need to take to show value earlier than your peers.
+0. READ WELL. Frames the whole book and does it well
+1. Come back later. Hiring managers should own the hiring process. "...human capital [is] the number one challenge facing [employers] today." Intelligence and attitude are more important than technical ability and job description.
+2. Come back later. The hiring mindset. "Hiring is an exercise in risk management." "Super Elements: attitude, a sense of accountability, past related-job success, and cultural fit." One bad hire potentially costs more than multiple great hires.
+3. Come back later. Where/how to source candidates. Looks at different recruiting and staffing models.
+4. Come back later. Don't follow your gut on hiring: use a scorecard to help remove emotional decisions. What does an A+ candidate look like?
+5. READ WELL. Resumes and phone interviews.
+6. FOCUS HERE. "Dig Deeper" with in-depth interviews. More great interview questions, quantitative predictors of success (multi-measure tests versus MBTI), and using the 30-60-90 day plan at a litmus test.
+7. Skim. Reference checks versus background checks, how to verify a candidate's performance.
+8. READ WELL. Getting an offer.
+9. READ WELL. Describes how onboarding should work which will help drive your own 30-60-90 day plan! Also sets the tone for retention.
+
+High-Impact Interview Questions: 701 Behavior-Based Questions to Find the Right Person for Every Job by Victoria Hoevemeyer
+https://www.amazon.com/High-Impact-Interview-Questions-Behavior-Based-Person/dp/0814438822/
+Who should read: Read if you're at least 80% human.
+Why: Learn to tell your story. As you go through the 701 interview questions in this book, probably 6-8 stories from your career will keep reappearing. Those are the stories that you should know and be able to tell at a question's notice.
+0. Come back later. Introduction
+1. READ WELL. How interviewing works and some class interview questions.
+2. READ WELL. Competency-Based Behavioral Interviewing and counter arguments
+3. READ WELL. What to think about when interviewing. Great reference for questions you can ask interviewers during the "What questions do you have for me?" block and metrics to recon prior to interview. Plus legal boundaries for questions.
+4. FOCUS HERE. All the interview questions! Actually 701 competency and behavioral based (CBBI) questions. First, read the first 1-2 questions in category. The goal here is to identify the 6-8 stories from your career that you can speak to from multiple angles.
+5. READ WELL. Follow up questions
+6. Skim. Distance interviews
+7. Come back later. Building a script
+8. Come back later. Putting the data together
+9. Skim. Using CBBI in other places to drive value such as performance management
+10. READ WELL. Advice, STAR
+
+The Simple Art of Business Etiquette: How to Rise to the Top by Playing Nice by Jeffrey L. Seglin
+https://www.amazon.com/Simple-Art-Business-Etiquette-Playing/dp/1623156882/
+Who should read: Transitioning Military
+Why: Understand some of the cultural differences between the military and the “outside.” This book covers everything from body language to meetings to asking for a raise. Quick, easy, useful, well written.
+1. The Best You
+2. Office Culture
+3. Rising to the Top
+4. Tricky Stuff
+
+The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded by Michael D. Watkins
+Who should read: Executives and people that want to be an executive and people that are about to transition to a new job
+https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612/
+Why. Industry standard reading. Considered “the onboarding Bible.” You are going through transition and this book focuses firmly on helping you go through that transition.
+0. READ WELL. Frames the whole book and does it well. How to provide value early and why that is important.
+1. READ WELL. Focus on culture. Problem preferences, reworking your social structure after promotion, know yourself
+2. Learning a new organization, first month
+3. Determine strategy and informal role (STARS)
+4. FOCUS HERE: 5 Conversations, 30-60-90 Intro, Golden Transition Rule
+5. Secure early wins, FOGLAMP and ADVPS
+6. Gap Analysis, SWOT/TOWS
+7. Building teams, offsites, virtual teams
+8. Influence and alliances
+9. Taking stock of yourself and getting personal support
+10. Transition heat map, processes, coaching
+
+Good to Great: Why Some Companies Make the Leap and Others Don't by Jim Collins
+Who should read: Anyone that wants to elevate their organization. Especially leaders.
+https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996/
+Why: Industry standard reading. Jim Collins covers some hard truths about running organizations and uses facts and statistics to back it up.
+1. Good is the Enemy of Great: Focus on people
+2. Level 5 Leadership: Personal humility and professional will, grow from within
+3. First Who Then What: when in doubt don't hire, best people on biggest opportunities not biggest problems
+4. Focus: Confront the Brutal Facts: create a climate of truth and communication, respond head on
+5. Hedgehog Concept: Passion + Performance + Economics, stick to one thing
+6. Culture of Discipline: take disciplined action within a framework which starts with the right people
+7. Technology Accelerators: find the right tech to accelerate momentum and use accelerated crawl, walk, run
+8. The Flywheel and the Doom Loop: Change happens with momentum and good organizations do it organically
+9. Built to Last: Organize work around great principles and ignore what doesn't matter
+10. Epilogue, lots of really great FAQs
+
+Team of Teams: New Rules of Engagement for a Complex World by Stanley McChrystal
+Who should read: Anyone that wants to elevate their organization. Especially leaders. Especially if you need help translating what you did in the military to "the outside".
+https://www.amazon.com/Team-Teams-Rules-Engagement-Complex/dp/1591847486/
+Why: Industry standard reading. It can be dense, so look at the breakout to help focus on the important stuff.
+0. Different solutions on different days, continual adaptation, timing rather than brilliance
+1. Whiteboard, Actor, Chaos, LIMFAC: Discusses chaos, managed initiative, and organizational culture
+2. Perfect Step, Clockwork: continuous experimentation until lower bar to entry/automate & determine best practice
+3. Comets, Square Peg, Big Data: complex v. complicated, probability
+4. Threat from Behind, Efficiency: Build better boats, effectiveness is doing right thing
+5. The Believer, Marathon, Utter, Charm School: Getting the right person, adapt, procedure v purpose, leader stand back
+6. Focus: Whole chapter: Non-MECE options, importance of liaisons
+7. New Metal Alloys, Launch Tower, Sets of Systems: Inspiration, complex systems, unlearning, education v training
+8. Pushback, Success: Culture of sharing, whole team in fight
+9. Walk A Mile, ISR, Decentralized: natural incentives, default to trust, organizational structure
+10. Use Good Judgment, As Long As: Empower subordinates, what do you need?
+11. The Gardener, The Way Forward: Balance information and interaction, teams monitor leader not the other way around
+12. A World Without Stop Signs: Adopt new mental models, webs and nodes not silos
+
+Winning by Jack Welch
+Who should read: Anyone that wants to elevate their organization. Especially leaders. I've literally dropped one of my copies in both the Atlantic and Pacific Oceans.
+https://www.amazon.com/Winning-Jack-Welch/dp/0060753943/
+Why: Good to Great page three identifies GE as “the best-led company in America at the end of the twentieth century.” The CEO, Jack Welch, ran the company during that period. Fortune Magazine calls him the “Manager of the Century.” This is his personal take on how to lead and the book is effectively an MBA in twenty short chapters.
+0. Business is a game, and winning that game is a total blast!
+1. Mission, values, details
+2. Your biggest enemy is how you communicate
+3. Invest where payback is highest and cut everything else, differentiation
+4. Let them speak
+5. Focus: Eight rules of leadership
+6. Acid tests, 4P&1E
+7. Six practices to success with first being elevate HR to position of power
+8. Firing and the three biggest mistakes
+9. Four practices for change
+10. Five assumptions for crisis management
+11. FOCUS HERE. Strategy IS the game and it changes rapidly
+12. Advocating for your budget
+13. Growing within organically and avoiding common pitfalls
+14. Executing mergers and adapting to change
+15. Embrace Six Sigma if it applies
+16. Evaluating yourself to try and find the right job
+17. Staying competitive for promotion (it's not about the gas)
+18. What if you get a bad boss?
+19. Work life balance. Figure it out early
+20. FAQs
+
+Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead by Lazlo Bock
+Who should read: Anyone that wants to elevate their organization. Especially leaders.
+https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790
+Why: Lazlo was the Senior Vice President of People Operations at Google. This is his book full of the lessons he learned managing super high performing technical people. You’d be silly not to learn from him.
+0. Frames the whole book and does it well
+1. You make your culture
+2. Culture trumps strategy
+3. FOCUS: Why hiring is the most important aspect in a company
+4. How to find the best talent
+5. Instincts do not not work: evaluate
+6. Balance management and team-led problems
+7. Focus on building people
+8. Focus on the top 5% and bottom 5%
+9. Grow from within
+10. Pay your top performers top salary
+11. The process is repeatable
+12. Communicate well and design for success
+13. Lessons learned and how to avoid them
+14. Starting the transformation today
