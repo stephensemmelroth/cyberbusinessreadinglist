@@ -30,7 +30,7 @@ Who should read: Anyone going for a technical security interview
 Why: Because these are common questions and you better know how to answer.
 
 What happens when you type in a URL to a browser and hit enter?
-http: self search. Go find lots of answers on your own.
+http: self search. Go find lots of answers on your own. But to give you a fish while you also learn to fish, start here: https://github.com/alex/what-happens-when
 Why: THE MOST IMPORTANT TECHNICAL SECURITY QUESTION. If you think this is just a DNS question, you're 45 minutes too short for the answer.
 
 
